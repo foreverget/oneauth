@@ -1,4 +1,4 @@
-package io.spring2go.oneauth.provider;
+package io.spring2go.oneauth;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
